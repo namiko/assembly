@@ -159,7 +159,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"firstfloor.json#enterFromSecond"
+                 "value":"..\/main.json#enterFromSecond"
                 }],
          "type":"tilelayer",
          "visible":true,
