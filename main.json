@@ -703,7 +703,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_haecksen "
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_haecksen"
                 }],
          "type":"tilelayer",
          "visible":true,
